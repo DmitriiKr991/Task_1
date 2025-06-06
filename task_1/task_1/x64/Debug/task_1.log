@@ -1,0 +1,2 @@
+﻿  Test.cpp
+C:\Users\dkrum\source\repos\task_1\task_1\Test.cpp(1,10): error C1083: Не удается открыть файл включение: gtest/gtest.h: No such file or directory,
